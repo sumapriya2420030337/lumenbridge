@@ -1,0 +1,10 @@
+[workspace]
+
+members = [
+"lumenbridge/crates/lumen-security",
+"lumenbridge/crates/lumen-protocol",
+"lumenbridge/crates/lumen-network",
+"lumenbridge/crates/lumen-discovery",
+"lumenbridge/crates/lumen-messaging",
+"lumenbridge/crates/lumen-node"
+]
